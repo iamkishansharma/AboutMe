@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Kishan Kr Sharma</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">
+        Experienced in working on Android Development, Web Development and Data Science projects.
+        \n\nI\'m a tech-savvy, quick learner and a team player with an excellent communication and project management skill.
+        \n\nI write code in Dart, C, Python, Java, JavaScript and my favourite C++.
+        \n\nReading books and developing cool projects is the stuff that motivates me.
+
+        \n\nExperienced in working on Android Development, Web Development and Data Science projects.
+        \n\nI\'m a tech-savvy, quick learner and a team player with an excellent communication and project management skill.
+        \n\nI write code in Dart, C, Python, Java, JavaScript and my favourite C++.
+        \n\nReading books and developing cool projects is the stuff that motivates me.
+
+        \n\nExperienced in working on Android Development, Web Development and Data Science projects.
+        \n\nI\'m a tech-savvy, quick learner and a team player with an excellent communication and project management skill.
+        \n\nI write code in Dart, C, Python, Java, JavaScript and my favourite C++.
+        \n\nReading books and developing cool projects is the stuff that motivates me.
+
+        \n\nExperienced in working on Android Development, Web Development and Data Science projects.
+        \n\nI\'m a tech-savvy, quick learner and a team player with an excellent communication and project management skill.
+        \n\nI write code in Dart, C, Python, Java, JavaScript and my favourite C++.
+        \n\nReading books and developing cool projects is the stuff that motivates me.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname ?</string>
+    <string name="done">Done</string>
+    <string name="error">Please Write Something</string>
+</resources>
